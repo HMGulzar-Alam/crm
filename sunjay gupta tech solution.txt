@@ -1,0 +1,45 @@
+sunjay gupta tech solution
+
+=>0 career guide
+after completing bootcamp we able to certified (associate, admin, app builder, BA, PD1, javascript)
+
+=>1 setup(backend) and application(frontend), signup for developer edition, lightning and classic experienced. (we prerfered light experience)
+
+-> console vs standard navigation
+-> company information and liscening (2 licsens available one is created when signup and another one manually)
+-> create user nd manage it (2 licsens available one is created w  bvcv        ds) in salesforce
+->field and relationship (field name basically api name and it is unique if changes be careful)
+
+=>3 Apps (container of all object, name, logo, and set of order tabs, utility items, system administrator also select)
+->objects and tab access from different apps
+->picklist and multiple picklist and global picklist value set (global select)
+-> search quick find (picklist value set) 
+->Field Dependency(between 2 picklist) (two parts role and dependencies)
+->Schema builder (graphical representation of object and its relationship) and also create fields
+->standard and console navigation app
+
+=> 4 standard and navigation console
+=>formula field
+=> Validation rule (restriction record  based on condition)
+=> page layout (manage fields & sections)
+=> record type (control page layout and picklist)
+=> compact layout (shows selected fields on record header)
+
+=> 5 Relationship (many to many, one to many)
+=> one to many (lookup and master) 
+=> lookup (creates one object to another object, loosely couple relationship)
+=> Master/Details Relationship 
+=> Rollup Summary (count, min,max)
+=> many to many (junction object)
+
+=> 6 listview
+=> lightning pages (home, record, app), creates home page
+
+=> 7 Duplicates and Matching, track activities, feed tracking, field history tracking, audit trail(check all changes)
+
+=> 8 Report (matrix,tabular,joint,summary)
+ (group for summary report)
+
+=> 9 report type(create custom objects using report type ), row level formula
+
+=

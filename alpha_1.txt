@@ -1,0 +1,43 @@
+alpha_1
+
+-> salesforce
+rollout team:
+1.project manager
+2.technical architech
+3.developers
+4.analyst
+5.administrator
+
+company information
+business hour
+networ setting
+duplicate error logs
+duplicate rule & matching rule
+role
+USER-> freeze and deactive
+troubleshoot login issue
+search layout
+
+->salesforce gdpr feature:
+only give user access what they need
+
+-> salesforce object
+table, coulumn, rows
+
+-> different type of relationship
+lookup
+master
+hierarchal
+
+-> schema builder
+edit model
+
+-> create custom object
+
+two types of field
+1.standard
+2. custom
+
+object relationships
+1. master => (child associated with parents object)
+2. lookup

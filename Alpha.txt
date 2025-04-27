@@ -1,0 +1,18 @@
+Alpha
+
+->Salesforce
+enterprises
+sales unit
+service unit
+
+-> Model of cloud computing
+SAAS (app)
+PAAS (platform)
+IAAS (infrastructure)
+
+->why salesforce crm
+easily integrated
+standard and custom application
+
+-> Data Model
+custom field, tabs

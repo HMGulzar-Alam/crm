@@ -1,0 +1,21 @@
+=> 32 Apex (Class, Method, Nonstatic, Static, default constructor, parameter constructor)
+=> 33 Oops (encapsulation -> collection of variables and methods together in an class),abstraction,inheritance,keywords(public,void,static,class),premtive data types, calculator example
+
+=>34 Account Record
+Account acc = new Account();
+acc.Name = 'gul';
+acc.Rating = 'Hot';
+acc.Active__c = 'Yes';
+insert acc;
+
+standard account as data types (repeat)
+custom object as data type
+
+=> 35 collection data types
+collections: list, list methods
+
+=> 36 set (unorder data), no duplicate
+
+=> 37 Map (key, value)
+method of Map 
+1. Put
